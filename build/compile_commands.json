@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/lwr20060722/Documents/Tencent Files/1946259453/FileRecv/cpp-training-start (1)/build/src",
+  "command": "D:\\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe  @CMakeFiles/training.dir/includes_CXX.rsp -Wno-deprecated-declarations -Wall -Werror -Wnon-virtual-dtor -Woverloaded-virtual -g -std=gnu++17 -Wall -Werror -o CMakeFiles\\training.dir\\hello.cpp.obj -c \"C:\\Users\\lwr20060722\\Documents\\Tencent Files\\1946259453\\FileRecv\\cpp-training-start (1)\\cpp-training\\src\\hello.cpp\"",
+  "file": "C:/Users/lwr20060722/Documents/Tencent Files/1946259453/FileRecv/cpp-training-start (1)/cpp-training/src/hello.cpp",
+  "output": "src/CMakeFiles/training.dir/hello.cpp.obj"
+},
+{
+  "directory": "C:/Users/lwr20060722/Documents/Tencent Files/1946259453/FileRecv/cpp-training-start (1)/build/tests",
+  "command": "D:\\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe  @CMakeFiles/training_main.dir/includes_CXX.rsp -Wno-deprecated-declarations -Wall -Werror -Wnon-virtual-dtor -Woverloaded-virtual -g -std=gnu++17 -o CMakeFiles\\training_main.dir\\test.cpp.obj -c \"C:\\Users\\lwr20060722\\Documents\\Tencent Files\\1946259453\\FileRecv\\cpp-training-start (1)\\cpp-training\\tests\\test.cpp\"",
+  "file": "C:/Users/lwr20060722/Documents/Tencent Files/1946259453/FileRecv/cpp-training-start (1)/cpp-training/tests/test.cpp",
+  "output": "tests/CMakeFiles/training_main.dir/test.cpp.obj"
+},
+{
+  "directory": "C:/Users/lwr20060722/Documents/Tencent Files/1946259453/FileRecv/cpp-training-start (1)/build/tests/googletest/googletest",
+  "command": "D:\\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe  @CMakeFiles/gtest.dir/includes_CXX.rsp -Wno-deprecated-declarations -Wall -Werror -Wnon-virtual-dtor -Woverloaded-virtual -g -std=c++17 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c \"C:\\Users\\lwr20060722\\Documents\\Tencent Files\\1946259453\\FileRecv\\cpp-training-start (1)\\cpp-training\\tests\\googletest\\googletest\\src\\gtest-all.cc\"",
+  "file": "C:/Users/lwr20060722/Documents/Tencent Files/1946259453/FileRecv/cpp-training-start (1)/cpp-training/tests/googletest/googletest/src/gtest-all.cc",
+  "output": "tests/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj"
+},
+{
+  "directory": "C:/Users/lwr20060722/Documents/Tencent Files/1946259453/FileRecv/cpp-training-start (1)/build/tests/googletest/googletest",
+  "command": "D:\\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe  @CMakeFiles/gtest_main.dir/includes_CXX.rsp -Wno-deprecated-declarations -Wall -Werror -Wnon-virtual-dtor -Woverloaded-virtual -g -std=c++17 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c \"C:\\Users\\lwr20060722\\Documents\\Tencent Files\\1946259453\\FileRecv\\cpp-training-start (1)\\cpp-training\\tests\\googletest\\googletest\\src\\gtest_main.cc\"",
+  "file": "C:/Users/lwr20060722/Documents/Tencent Files/1946259453/FileRecv/cpp-training-start (1)/cpp-training/tests/googletest/googletest/src/gtest_main.cc",
+  "output": "tests/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj"
+}
+]
